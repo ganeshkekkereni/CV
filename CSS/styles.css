@@ -1,0 +1,25 @@
+h1 {
+  color: #76BA99;
+}
+h2 {
+  color: #76BA99;
+}
+h3 {
+  color: #76BA99;
+}
+
+
+body {
+  background-color: #DAEAF1;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+img {
+  height: 250px;
+}
